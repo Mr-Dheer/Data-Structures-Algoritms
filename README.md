@@ -30,6 +30,6 @@
 - Super Keyword
 - This Keyword
 
-### 3. Projectss contains 2 projects purely made out using OOps
+### 3. Projectss contains 2 projects purely made  using OOPs
 - NotePad
 - TIC-TAC-TOE
