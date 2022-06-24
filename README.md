@@ -1,4 +1,4 @@
-# This repository contains all Data-Structures-Algoritms Codes wriiten in Java
+# This repository contains all Data-Structures & Algoritms Codes coded in Java
 
 ### 1. New- Beginning Contains all DSA codes such as :-
 - Basics
