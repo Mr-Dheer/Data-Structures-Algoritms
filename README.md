@@ -1,6 +1,6 @@
 # This repository contains all Data-Structures & Algoritms Codes coded in Java
 
-### 1. New- Beginning Contains all DSA codes such as :-
+## 1. New- Beginning Contains all DSA codes such as :-
 - Basics
 - Array
 - Array List
@@ -11,7 +11,7 @@
 - Linked List
 - Searching & Sorting Algos
 
-##### Advance DSA :-
+## Advance DSA :-
 - Recursion
 - Graph
 - Hash-Maps
@@ -21,7 +21,7 @@
 - Encapsulation
 - Abstraction
 
-### 2. Advance Java Contains, Advance topics of Java such as :-
+## 2. Advance Java Contains, Advance topics of Java such as :-
 - Exceptional Handling
 - File Handling
 - Graphical User Interface(GUI)
@@ -30,6 +30,6 @@
 - Super Keyword
 - This Keyword
 
-### 3. Projectss contains 2 projects purely made  using OOPs
+## 3. Projectss contains 2 projects purely made  using OOPs
 - NotePad
 - TIC-TAC-TOE
